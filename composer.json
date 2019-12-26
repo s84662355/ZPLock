@@ -1,0 +1,20 @@
+{
+    "name": "chenjiahao/zp-lock",
+    "description": "zp-lock",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenjiahao",
+            "email": "271375247@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "ext-zookeeper": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZPLock\\": "src/"
+        }
+    }    
+}
