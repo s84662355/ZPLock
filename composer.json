@@ -1,6 +1,6 @@
 {
     "name": "chenjiahao/zp-lock",
-    "description": "zp-lock",
+    "description": "zp-lock Zookeeper 实现分布式锁的项目",
     "license": "MIT",
     "authors": [
         {
